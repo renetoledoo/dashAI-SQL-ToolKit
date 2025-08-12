@@ -25,6 +25,7 @@ Este projeto demonstra como criar um agente conversacional que responde pergunta
 - MySQL com PyMySQL  
 
 ---
+<img width="804" height="290" alt="image" src="https://github.com/user-attachments/assets/91b25341-58c3-4600-a0a3-ea5ddc962670" />
 
 ## Como funciona o REACT Agents
 
