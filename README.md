@@ -1,6 +1,6 @@
 # Insight ReAct Agents - Ollama + LangChain
 
-Este é um projeto simples de demonstração para uso de agentes baseados em LLM (Language Models) com LangChain e Ollama local, aplicados a consultas em banco de dados MySQL. Além disso, mostra exemplos básicos de como trabalhar com concorrência em Python para tornar a execução mais eficiente.
+Este é um projeto simples de demonstração para uso de agentes baseados em LLM (Language Models) com LangChain e Ollama local, aplicados a consultas em banco de dados MySQL.
 
 > [!] Este é um projeto apenas para teste com Ollama local, com modelo simples.
 
